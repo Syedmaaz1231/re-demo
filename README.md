@@ -1,4 +1,4 @@
 # re-demo
 my first repository
 <br>
-Author-Syed Maaz
+Author-Maaz Syed
